@@ -65,6 +65,7 @@
 - [Evaldas Stanelis](https://github.com/m4rx/)
 - [Anh Phu Cao](https://github.com/anhphu195)
 - [Amaan Kulshreshtha](https://github.com/AmaanKulshreshtha)
+- [Jonathan Peppler](https://github.com/jopep100)ø
 - [Yug Shah] (https://github.com/Yug-Shah)
 - [AnnChar](https://github.com/annchar)
 - [David Adegoke](https://github.com/dhaveed)

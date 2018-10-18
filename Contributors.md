@@ -34,6 +34,7 @@
 - [Diwaker Singh](https://github.com/diwakersurya)
 - [Warushika](https://github.com/warushika)
 - [André Dias](https://github.com/andrehgdias)
+- [Sebastian Konietzny](https://github.com/konietse)
 - Omar Dahhane (https://github.com/iaskari)
 - Malipeddi Jitesh
 - Shani Rub

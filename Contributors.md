@@ -1,6 +1,7 @@
 # Contributors
 
 - [Jonathan Chao](https://github.com/JChao7)
+- [Lars Müller](https://github.com/pYTR0N/)
 - [Thomas Smith](https://github.com/ThomasSmithIRE)
 - [Elia Grego](https://github.com/eliagrego)
 - [Arya Atighehchian](https://github.com/Arya04)
